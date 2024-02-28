@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@discordjs/core": "^0.6.0",
+    "@napi-rs/canvas": "^0.1.44",
+    "axios": "^1.6.7",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "git": "^0.1.5",
+    "moment": "^2.29.4",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.5.2"
+  },
+  "name": "discord-utilities-bot",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": ".infinitevoid.",
+  "license": "ISC",
+  "description": ""
+}
