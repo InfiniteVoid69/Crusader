@@ -8,7 +8,8 @@
     "git": "^0.1.5",
     "moment": "^2.29.4",
     "mongodb": "^6.1.0",
-    "mongoose": "^7.5.2"
+    "mongoose": "^7.5.2",
+    "node-cron": "^3.0.3"
   },
   "name": "discord-utilities-bot",
   "version": "1.0.0",
